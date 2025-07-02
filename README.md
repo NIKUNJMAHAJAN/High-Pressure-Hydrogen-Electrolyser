@@ -1,4 +1,5 @@
 # High-Pressure-Hydrogen-Electrolyser
+Designing high-pressure PEM electrolyzer with focus on bipolar plate optimization. Studied corrosion issues, material selection (titanium vs. coated steel), and flow field design. Aim is to improve durability, conductivity, and gas management for efficient hydrogen production.
 
 # Objective
 The aim of this project is to understand, design, and develop a high-pressure Proton Exchange Membrane (PEM) electrolyzer, with a special focus on the bipolar plate (BPP)—a critical component for performance, safety, and durability. The project integrates electrochemical, mechanical, and material design aspects, with emphasis on corrosion resistance, electrical conductivity, and manufacturability.
